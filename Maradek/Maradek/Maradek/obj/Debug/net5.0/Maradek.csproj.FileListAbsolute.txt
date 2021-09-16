@@ -1,0 +1,15 @@
+C:\Users\HQSC01\source\repos\Csharp\Maradek\Maradek\Maradek\bin\Debug\net5.0\Maradek.exe
+C:\Users\HQSC01\source\repos\Csharp\Maradek\Maradek\Maradek\bin\Debug\net5.0\Maradek.deps.json
+C:\Users\HQSC01\source\repos\Csharp\Maradek\Maradek\Maradek\bin\Debug\net5.0\Maradek.runtimeconfig.json
+C:\Users\HQSC01\source\repos\Csharp\Maradek\Maradek\Maradek\bin\Debug\net5.0\Maradek.runtimeconfig.dev.json
+C:\Users\HQSC01\source\repos\Csharp\Maradek\Maradek\Maradek\bin\Debug\net5.0\Maradek.dll
+C:\Users\HQSC01\source\repos\Csharp\Maradek\Maradek\Maradek\bin\Debug\net5.0\ref\Maradek.dll
+C:\Users\HQSC01\source\repos\Csharp\Maradek\Maradek\Maradek\bin\Debug\net5.0\Maradek.pdb
+C:\Users\HQSC01\source\repos\Csharp\Maradek\Maradek\Maradek\obj\Debug\net5.0\Maradek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HQSC01\source\repos\Csharp\Maradek\Maradek\Maradek\obj\Debug\net5.0\Maradek.AssemblyInfoInputs.cache
+C:\Users\HQSC01\source\repos\Csharp\Maradek\Maradek\Maradek\obj\Debug\net5.0\Maradek.AssemblyInfo.cs
+C:\Users\HQSC01\source\repos\Csharp\Maradek\Maradek\Maradek\obj\Debug\net5.0\Maradek.csproj.CoreCompileInputs.cache
+C:\Users\HQSC01\source\repos\Csharp\Maradek\Maradek\Maradek\obj\Debug\net5.0\Maradek.dll
+C:\Users\HQSC01\source\repos\Csharp\Maradek\Maradek\Maradek\obj\Debug\net5.0\ref\Maradek.dll
+C:\Users\HQSC01\source\repos\Csharp\Maradek\Maradek\Maradek\obj\Debug\net5.0\Maradek.pdb
+C:\Users\HQSC01\source\repos\Csharp\Maradek\Maradek\Maradek\obj\Debug\net5.0\Maradek.genruntimeconfig.cache
