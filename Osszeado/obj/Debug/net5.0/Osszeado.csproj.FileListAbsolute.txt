@@ -1,0 +1,16 @@
+C:\Users\akosh\source\test\Osszeado\bin\Debug\net5.0\Osszeado.exe
+C:\Users\akosh\source\test\Osszeado\bin\Debug\net5.0\Osszeado.deps.json
+C:\Users\akosh\source\test\Osszeado\bin\Debug\net5.0\Osszeado.runtimeconfig.json
+C:\Users\akosh\source\test\Osszeado\bin\Debug\net5.0\Osszeado.runtimeconfig.dev.json
+C:\Users\akosh\source\test\Osszeado\bin\Debug\net5.0\Osszeado.dll
+C:\Users\akosh\source\test\Osszeado\bin\Debug\net5.0\ref\Osszeado.dll
+C:\Users\akosh\source\test\Osszeado\bin\Debug\net5.0\Osszeado.pdb
+C:\Users\akosh\source\test\Osszeado\obj\Debug\net5.0\Osszeado.csproj.AssemblyReference.cache
+C:\Users\akosh\source\test\Osszeado\obj\Debug\net5.0\Osszeado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akosh\source\test\Osszeado\obj\Debug\net5.0\Osszeado.AssemblyInfoInputs.cache
+C:\Users\akosh\source\test\Osszeado\obj\Debug\net5.0\Osszeado.AssemblyInfo.cs
+C:\Users\akosh\source\test\Osszeado\obj\Debug\net5.0\Osszeado.csproj.CoreCompileInputs.cache
+C:\Users\akosh\source\test\Osszeado\obj\Debug\net5.0\Osszeado.dll
+C:\Users\akosh\source\test\Osszeado\obj\Debug\net5.0\ref\Osszeado.dll
+C:\Users\akosh\source\test\Osszeado\obj\Debug\net5.0\Osszeado.pdb
+C:\Users\akosh\source\test\Osszeado\obj\Debug\net5.0\Osszeado.genruntimeconfig.cache
