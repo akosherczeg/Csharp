@@ -6,13 +6,13 @@ namespace Szamologep
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Please enter the first number");
+            Console.WriteLine("elso szam");
             int a = int.Parse(Console.ReadLine());
 
-            Console.WriteLine("Enter the operator you want to use");
+            Console.WriteLine("muveleti jel");
             string c = Console.ReadLine();
 
-            Console.WriteLine("Enter the last number");
+            Console.WriteLine("masodik szam");
             int b = int.Parse(Console.ReadLine());
 
             string formula = "acb";
